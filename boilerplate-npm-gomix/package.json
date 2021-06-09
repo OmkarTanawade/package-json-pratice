@@ -1,7 +1,6 @@
 {
-	"author":"Omkar Tanawade",
-	"key":"valid",
 	"name": "fcc-learn-npm-package-json",
+	"author":"OmkarTanawade",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
